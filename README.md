@@ -1,5 +1,6 @@
 # dpdt-relay-module
 Simple relay module uses inexpensive 12V DC relays to control a 16VAC load.
+Schematic and layout using KiCad 7.0
 
 The PCB can ordered at https://www.jlcpcb.com reorder number Y1-6089045A.
 
