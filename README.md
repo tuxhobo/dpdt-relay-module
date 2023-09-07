@@ -24,5 +24,7 @@ J1 | 102-6149-ND | TB002-500-06BE 			 TERMINAL BLOCK, SCREW TYPE, 5.00
 R1 | 13-CFR-50JB-52-270R-ND | CFR-50JB-52-270R 			 RES 270 OHM 5% 1/2W AXIAL
 D1 | 641-1344-5-ND | DF005S-G 			 BRIDGE RECT 1PHASE 50V 1A DFS
 
-For a complete description of how I used relay module for a video doorbell installation, see the following page:
+
+For a complete description of how I used relay module for a video doorbell installation, see the following page:\
 https://community.home-assistant.io/t/doorbell-automation-project/611389
+
